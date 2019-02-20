@@ -1,35 +1,27 @@
+
+# 亲爱的小编：
+关注Meet这个平台已经有一段时间了，但一直没有勇气晒出资料。相识相爱是很概率论的事情，走进婚姻更是前世修来的福分。希望我跨出这一步，在这个平台有机会遇到有缘人。如果有相识的朋友见到，也请默默祝福，谢谢。
+
 # ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
-# WebApp
-<table>
-<tr>
-<td>
-  A webapp using Quandl API to display history of stock growth in a given period of time. It helps predict the growth of stocks from the  charts of stock performace in any period of time. It helps to judge stocks, with the principle of momentum investing, which returns 1% per month on average.
-</td>
-</tr>
-</table>
 
 
-## Demo
-Here is a working live demo :  https://iharsh234.github.io/WebApp/
+## 个人基本信息
+Sophie LIN，女，90年生，身高160cm，体重46公斤，广东汕头人，非独生女，现户口、工作和生活在广州。本科毕业于中山大学，现为广州公务员，月入1万+，未购房车，未婚，无子女，汉族，属马，狮子座，无宗教信仰，不抽烟，不喝酒。 父母在汕头，家中兄弟姐妹多，无经济负担。
+![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
+## 关于自己的一些描述
+从小在热闹的大家庭长大，待人随和，性格比较独立，相对沉稳。从心理学角度来说，应该是属于内向属性的人。相对于广泛交友拓展人脉圈，维持长期稳定的小范围好友圈是我更愿意花精力做的事；相较于轰趴聚会等群体活动，安静独处的方式更能帮助我排解压力和负面情绪。
 
+平时有适当运动的习惯，空闲时间喜欢看书，观影，偶尔看下感兴趣的话剧和舞台剧，不喜欢生活一直一成不变，我也喜欢尝试接触新事物，希望未来有机会一起体验。 毕业后的这段时间，先后在事业单位、企业工作过，而后考的公务员，工作地点也在变动，对于个人问题没有过多的投入精力，抱着顺其自然的心态忙忙碌碌。现在工作稳定下来，是时候寻个人一起继续未来的生活了。 
+![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
+### 期许的另一半
+性别男，年龄在91-86年之间，身高170-175cm为佳，身材匀称，籍贯广东为佳，现工作和生活所在地在广州。学历全日制本科以上（211、985为佳），职业类别不限，有正当工作且对未来有规划，经济收入不低于我，近两年有购买住房的能力（可一起努力），无婚史，（日常有抽烟喝酒习惯、大男子主义、重度拖延症患者不接受），无宗教信仰。 
 
-## Site
-
-### Landing Page
-Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol will be added soon.
-
+希望对方正直善良，重承诺、有包容心（因为我有的时候会比较执拗）、为人处事稳重，生活自理能力强，有专业所长。最好喜欢看书，且乐于分享和交流，与我聊得来。喜欢烹饪者、皮肤好加分。本人有些许颜控，对于长相斯文清爽类型的男生比较有好感。
 ![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
 
-### Query Filled Form
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
 
-### Charts
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
-
-
-## Mobile support
-The WebApp is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
 
 ![](https://iharsh234.github.io/WebApp/images/demo/mobile.png)
+ 转发 · 分享 · 爱 · 在路上 
