@@ -13,7 +13,7 @@
 - 目前在深圳某大型互联网公司任产品经理，月入2万+，年入40万+
 - 已购车，计划在深圳购房
 - 未婚，无子女，汉族，属龙，A型血，无宗教信仰，不抽烟，少喝酒。
-![个人简介]("https://github.com/randyguogithub/baoqiuren.github.io/blob/master/images/2.jpg")
+![个人简介](https://github.com/randyguogithub/baoqiuren.github.io/blob/master/images/2.jpg)
 
 ## 家庭简介
 几个兄弟姐妹？！请在此输入内容请在此输入内容请在此输入内容请在此输入内容请在此输入内容
