@@ -1,38 +1,26 @@
+<audio autoplay="true" loop="true" name="此时此刻" author="许巍" poster="https://y.gtimg.cn/music/photo_new/T002R68x68M000002Blv2T1OPUFu.jpg?max_age=2592000"  src="https://ws.stream.qqmusic.qq.com/M500001VfvsJ21xFqb.mp3?guid=ffffffff82def4af4b12b3cd9337d5e7&uin=346897220&vkey=6292F51E1E384E06DCBDC9AB7C49FD713D632D313AC4858BACB8DDD29067D3C601481D36E62053BF8DFEAF74C0A5CCFADD6471160CAF3E6A&fromtag=46"></audio>
 
-# Towxml
+## 亲爱的小编
 
-![Towxml](https://www.vvadd.com/wxml_demo/logo--horizontal.svg)
+我是通过朋友推荐了解到这个平台的，初步看了一下资料，觉得平台里的女孩都很优秀，平台比较靠谱，交往很真诚，希望能在这个平台遇到合适的女孩，携手走入婚姻的殿堂。
+![凤凰古城](https://www.vvadd.com/wxml_demo/img.jpg)
 
-由于微信小程序==不允许直接渲染==`HTML`，因此富文本编辑器生成的`HTML`内容无法直接在小程序中展示。
+## 个人基本信息
 
-**Towxml** 正是为了解决这一切，Towxml是一个可将`HTML`、`markdown`转换为`WXML`(WeiXin Markup Language)的渲染库。
-
-
-## 特色
-
-- 支持代码语法高亮
-- 支持emoji表情:wink:
-- 支持上标、下标、下划线、删除线……
-- 支持typographer字符替换
-- 多主题动态支持
-- 极致的中文排版优化
-- Markdown TodoList
-- 元素事件绑定
-- 前后端支持
-
----
-
-
-## 什么是 Markdown
-
-**Markdown** 是一种方便记忆、书写的纯文本标记语言，用户可以使用这些标记符号以最小的输入代价生成极富表现力的文档：譬如您正在阅读的这份文档。它使用简单的符号标记不同的标题，分割不同的段落，**粗体** 或者 *斜体* 某些文字。
+- 杰克船长，男，1988年8月生，身高175cm，体重60KG
+- 吉林人，户口吉林市，现工作生活在深圳
+- 本科毕业于东北电力大学计算机科学与技术专业
+- 目前在深圳某大型互联网公司任产品经理，月入2万+，年入40万+
+- 已购车，计划在深圳购房
+- 未婚，无子女，汉族，属龙，A型血，无宗教信仰，不抽烟，少喝酒。
 
 当然，不仅仅只是这些……
 
 **更多详见** [http://www.markdown.cn/](http://www.markdown.cn/)
 
-
-## Markdown TodoList
+---
+![Towxml](https://www.vvadd.com/wxml_demo/logo--horizontal.svg)
+## 未来恋爱计划
 
 - [ ] 一起去旅行
 - [ ] 跟同学聚会
@@ -40,7 +28,9 @@
 - [x] 测试用例撰写
 
 
-## 图文排列
+## 关于自己的一些描述
+
+<video class="vidoe" src="http://baobab.kaiyanapp.com/api/v1/playUrl?vid=17129&editionType=normal&source=qcloud">视频</video>
 
 **边城`沈从文`著——中篇小说**
 
@@ -51,98 +41,13 @@
 
 兄弟俩没有按照当地风俗以决斗论胜负，而是采用公平而浪漫的唱山歌的方式表达感情，让翠翠自己从中选择。傩送是唱歌好手，天保自知唱不过弟弟，心灰意冷，断然驾船远行做生意。
 
-<audio autoplay="true" loop="true" name="此时此刻" author="许巍" poster="https://y.gtimg.cn/music/photo_new/T002R68x68M000002Blv2T1OPUFu.jpg?max_age=2592000"  src="https://ws.stream.qqmusic.qq.com/M500001VfvsJ21xFqb.mp3?guid=ffffffff82def4af4b12b3cd9337d5e7&uin=346897220&vkey=6292F51E1E384E06DCBDC9AB7C49FD713D632D313AC4858BACB8DDD29067D3C601481D36E62053BF8DFEAF74C0A5CCFADD6471160CAF3E6A&fromtag=46"></audio>
+
 
 碧溪边只听过一夜傩送的歌声，后来，歌却再没有响起来。老船夫忍不住去问，本以为是老大唱的，却得知：唱歌人是傩送，老大讲出实情后便去做生意。几天后老船夫听说老大坐水船出了事，淹死了……
 
 码头的船总顺顺因为儿子天保的死对老船夫变得冷淡。船总顺顺不愿意翠翠再做傩送的媳妇。老船夫只好郁闷地回到家，翠翠问他，他也没说起什么。夜里下了大雨，夹杂着吓人的雷声。第二天翠翠起来发现船已被冲走，屋后的白塔也冲塌了，翠翠去找爷爷却发现老人已在雷声将息时死去了…… 老军人杨马兵热心地前来陪伴翠翠，也以渡船为生，等待着傩送的归来。
 
 
-## Code
-
-Python
-
-``` python
-@requires_authorization
-def somefunc(param1='', param2=0):
-    '''A docstring'''
-    if param1 > param2: # interesting
-        print 'Greater'
-    return (param2 - param1 + 1) or None
-class SomeClass:
-    pass
->>> message = '''interpreter
-... prompt'''
-```
-
-Xml
-
-```xml
-<?xml version="1.0"?>
-<!DOCTYPE mycat:schema SYSTEM "schema.dtd">
-<mycat:schema xmlns:mycat="http://io.mycat/">
-	<schema name="doubaSchema" checkSQLschema="false" sqlMaxLimit="100" dataNode="dn1"></schema>
-	
-	<dataNode name="dn1" dataHost="dh1" database="douba" />
-	
-	<dataHost name="dh1" maxCon="500" minCon="20" balance="1" writeType="0" dbType="mysql" dbDriver="native" switchType="2" slaveThreshold="100">
-		<heartbeat>show slave status</heartbeat>
-		
-		<writeHost host="hostM41" url="192.168.2.41:3306" user="root" password="123456" >
-			<readHost host="hostS42" url="192.168.2.42:3306" user="root" password="123456" />
-			<readHost host="hostS43" url="192.168.2.43:3306" user="root" password="123456" />
-		</writeHost>
-	</dataHost>
-</mycat:schema>
-```
-
-Html
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
-</head>
-<body>
-    content text...
-</body>
-</html>
-```
-
-Css
-
-```css
-html,body {background:white;}
-.box {width:200px; height:200px;}
-```
-
-Javascript
-
-```javascript
-(()=>{
-    const fs = require('fs');
-    
-    let sum = (a,b)=>{
-        return a+b;
-    };
-    
-    console.log(sum(1+2));
-})()
-```
-
-Bash
-
-```bash
-# 查看当前仓库情况
-$ git status
-
-# On branch branch -b
-# You have unmerged paths.
-```
 
 ## emoji 8-)
 
@@ -239,9 +144,6 @@ Start numbering with offset:
 
 ==Marked text==
 
-
-## Video
-<video class="vidoe" src="http://baobab.kaiyanapp.com/api/v1/playUrl?vid=17129&editionType=normal&source=qcloud">视频</video>
 
 
 ---
