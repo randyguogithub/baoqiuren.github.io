@@ -17,17 +17,16 @@
 - 目前在深圳某大型互联网公司任产品经理，月入2万+，年入40万+
 - 已购车，计划在深圳购房
 - 未婚，无子女，汉族，属龙，A型血，无宗教信仰，不抽烟，少喝酒。
-
-当然，不仅仅只是这些…… **更多详见** 
-[http://www.markdown.cn/](http://www.markdown.cn/)
-
-爱情宣言
-`世间最理想的爱情，当然是两颗同心，一生相濡以沫。擦肩而过，只能说彼此情深缘浅。放手成全，可能给人感觉言过凄美，听着有些颇为冷情，可谁也不能否认这不是因为爱情。`
+<p align="center">
+  <img src="https://github.com/randyguogithub/baoqiuren.github.io/blob/master/images/2.jpg" alt="Bundle Analyzer example">
+</p>
 
 ## 家庭简介
-请在此输入内容请在此输入内容请在此输入内容请在此输入内容请在此输入内容
+几个兄弟姐妹？！请在此输入内容请在此输入内容请在此输入内容请在此输入内容请在此输入内容
 <video class="vidoe" src="http://baobab.kaiyanapp.com/api/v1/playUrl?vid=17129&editionType=normal&source=qcloud">视频</video>
-
+<p align="center">
+  <img src="https://github.com/randyguogithub/baoqiuren.github.io/blob/master/images/3.jpg" alt="Bundle Analyzer example">
+</p>
 
 ## 自我评价
 
@@ -36,11 +35,18 @@
 ## 他人评价
 
 碧溪边只听过一夜傩送的歌声，后来，歌却再没有响起来。老船夫忍不住去问，本以为是老大唱的，却得知：唱歌人是傩送，老大讲出实情后便去做生意。几天后老船夫听说老大坐水船出了事，淹死了……
-
+<p align="center">
+  <img src="https://github.com/randyguogithub/baoqiuren.github.io/blob/master/images/6.jpg" alt="Bundle Analyzer example">
+</p>
+<p align="center">
+  <img src="https://github.com/randyguogithub/baoqiuren.github.io/blob/master/images/1.gif" alt="Bundle Analyzer example">
+</p>
 ## 理想对象标准
 
 请在此输入内容请在此输入内容请在此输入内容请在此输入内容请在此输入内容
-
+<p align="center">
+  <img src="https://github.com/randyguogithub/baoqiuren.github.io/blob/master/images/4.jpg" alt="Bundle Analyzer example">
+</p>
 
 <h1 align="center">
   <br>
