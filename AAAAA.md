@@ -15,39 +15,26 @@
 - 目前在深圳某大型互联网公司任产品经理，月入2万+，年入40万+
 - 已购车，计划在深圳购房
 - 未婚，无子女，汉族，属龙，A型血，无宗教信仰，不抽烟，少喝酒。
-
-<img src="https://github.com/randyguogithub/baoqiuren.github.io/blob/master/images/2.jpg" alt="Bundle Analyzer example">
+![个人简介]("https://github.com/randyguogithub/baoqiuren.github.io/blob/master/images/2.jpg)
 
 ## 家庭简介
 几个兄弟姐妹？！请在此输入内容请在此输入内容请在此输入内容请在此输入内容请在此输入内容
 <video class="vidoe" src="http://baobab.kaiyanapp.com/api/v1/playUrl?vid=17129&editionType=normal&source=qcloud">视频</video>
-<p align="center">
-  <img src="https://github.com/randyguogithub/baoqiuren.github.io/blob/master/images/3.jpg" alt="Bundle Analyzer example">
-</p>
 
 ## 自我评价
 
 码头的船总顺顺因为儿子天保的死对老船夫变得冷淡。船总顺顺不愿意翠翠再做傩送的媳妇。老船夫只好郁闷地回到家，翠翠问他，他也没说起什么。夜里下了大雨，夹杂着吓人的雷声。第二天翠翠起来发现船已被冲走，屋后的白塔也冲塌了，翠翠去找爷爷却发现老人已在雷声将息时死去了…… 老军人杨马兵热心地前来陪伴翠翠，也以渡船为生，等待着傩送的归来。
-
+![自我评价]("https://github.com/randyguogithub/baoqiuren.github.io/blob/master/images/3.jpg)
+![他人评价]("https://github.com/randyguogithub/baoqiuren.github.io/blob/master/images/6.gif)
 ## 他人评价
 
 碧溪边只听过一夜傩送的歌声，后来，歌却再没有响起来。老船夫忍不住去问，本以为是老大唱的，却得知：唱歌人是傩送，老大讲出实情后便去做生意。几天后老船夫听说老大坐水船出了事，淹死了……
-<p align="center">
-  <img src="https://github.com/randyguogithub/baoqiuren.github.io/blob/master/images/5.jpg" alt="Bundle Analyzer example">
-</p>
+![自我评价]("https://github.com/randyguogithub/baoqiuren.github.io/blob/master/images/5.jpg)
+![他人评价]("https://github.com/randyguogithub/baoqiuren.github.io/blob/master/images/1.gif)
 
-<p align="center">
-  <img src="https://github.com/randyguogithub/baoqiuren.github.io/blob/master/images/1.gif" alt="Bundle Analyzer example">
-</p>
 ## 理想对象标准
 
 请在此输入内容请在此输入内容请在此输入内容请在此输入内容请在此输入内容
-<p align="center">
-  <img src="https://github.com/randyguogithub/baoqiuren.github.io/blob/master/images/4.jpg" alt="Bundle Analyzer example">
-</p>
+![他人评价]("https://github.com/randyguogithub/baoqiuren.github.io/blob/master/images/6.jpg)
 
-<h1 align="center">
-  <br>
-  情不知所起，缘定于宝坵
-  <br>
-</h1>
+***第一个优秀青年的个人展示如此精彩，不知道大家有没有被深深的吸引了呢，如果有的话，发送名字+求联系方式，并根据后台要求留下个人资料即有机会获得联系方式哦
