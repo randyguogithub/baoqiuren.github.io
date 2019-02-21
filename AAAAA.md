@@ -16,7 +16,7 @@
 - 已购车，计划在深圳购房
 - 未婚，无子女，汉族，属龙，A型血，无宗教信仰，不抽烟，少喝酒。
 
-<img align="center" src="https://github.com/randyguogithub/baoqiuren.github.io/blob/master/images/2.jpg" alt="Bundle Analyzer example">
+<img src="https://github.com/randyguogithub/baoqiuren.github.io/blob/master/images/2.jpg" alt="Bundle Analyzer example">
 
 ## 家庭简介
 几个兄弟姐妹？！请在此输入内容请在此输入内容请在此输入内容请在此输入内容请在此输入内容
