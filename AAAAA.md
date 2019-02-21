@@ -36,8 +36,9 @@
 
 碧溪边只听过一夜傩送的歌声，后来，歌却再没有响起来。老船夫忍不住去问，本以为是老大唱的，却得知：唱歌人是傩送，老大讲出实情后便去做生意。几天后老船夫听说老大坐水船出了事，淹死了……
 <p align="center">
-  <img src="https://github.com/randyguogithub/baoqiuren.github.io/blob/master/images/6.jpg" alt="Bundle Analyzer example">
+  <img src="https://github.com/randyguogithub/baoqiuren.github.io/blob/master/images/5.jpg" alt="Bundle Analyzer example">
 </p>
+
 <p align="center">
   <img src="https://github.com/randyguogithub/baoqiuren.github.io/blob/master/images/1.gif" alt="Bundle Analyzer example">
 </p>
