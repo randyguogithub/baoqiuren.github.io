@@ -13,7 +13,7 @@
 - 目前在深圳某大型互联网公司任产品经理，月入2万+，年入40万+
 - 已购车，计划在深圳购房
 - 未婚，无子女，汉族，属龙，A型血，无宗教信仰，不抽烟，少喝酒。
-![个人简介](https://github.com/randyguogithub/baoqiuren.github.io/blob/master/images/2.jpg)
+![个人简介](http://baoqiuren-1253721172.file.myqcloud.com/xiangqin/2.jpg)
 
 ## 家庭简介
 几个兄弟姐妹？！请在此输入内容请在此输入内容请在此输入内容请在此输入内容请在此输入内容
@@ -23,21 +23,21 @@
 
 请在此输入内容请在此输入内容请在此输入内容请在此输入内容请在此输入内容
 
-![自我评价](https://github.com/randyguogithub/baoqiuren.github.io/blob/master/images/3.jpg)
+![自我评价](http://baoqiuren-1253721172.file.myqcloud.com/xiangqin/3.jpg)
 
-![他人评价](https://github.com/randyguogithub/baoqiuren.github.io/blob/master/images/6.gif)
+![他人评价](http://baoqiuren-1253721172.file.myqcloud.com/xiangqin/6.gif)
 ## 他人评价
 
 请在此输入内容请在此输入内容请在此输入内容请在此输入内容请在此输入内容
 
-![自我评价](https://github.com/randyguogithub/baoqiuren.github.io/blob/master/images/5.jpg)
+![自我评价](http://baoqiuren-1253721172.file.myqcloud.com/xiangqin/5.jpg)
 
-![他人评价](https://github.com/randyguogithub/baoqiuren.github.io/blob/master/images/1.gif)
+![他人评价](http://baoqiuren-1253721172.file.myqcloud.com/xiangqin/1.gif)
 
 ## 理想对象标准
 
 请在此输入内容请在此输入内容请在此输入内容请在此输入内容请在此输入内容
 
-![他人评价](https://github.com/randyguogithub/baoqiuren.github.io/blob/master/images/4.jpg)
+![他人评价](http://baoqiuren-1253721172.file.myqcloud.com/xiangqin/4.jpg)
 
 ***第一个优秀青年的个人展示如此精彩，不知道大家有没有被深深的吸引了呢，如果有的话，发送名字+求联系方式，并根据后台要求留下个人资料即有机会获得联系方式哦
