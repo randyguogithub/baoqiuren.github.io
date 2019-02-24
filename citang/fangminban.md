@@ -1,35 +1,10 @@
-# ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
-# WebApp
-<table>
-<tr>
-<td>
-  A webapp using Quandl API to display history of stock growth in a given period of time. It helps predict the growth of stocks from the  charts of stock performace in any period of time. It helps to judge stocks, with the principle of momentum investing, which returns 1% per month on average.
-</td>
-</tr>
-</table>
+# ![WebApp](http://xcx-1253721172.file.myqcloud.com/baoqiuren/pictures/header.jpg)
+# 捐资修建祖祠芳名
 
+> 	祠堂乃宗族团结及力量之体现与象征，子孙孝则祖祠兴，祖祠兴则宗族旺。
+人旺千秋不忘祖，树高百丈靠盘根。郭氏衍传，宝坵源远。
 
-## Demo
-Here is a working live demo :  https://iharsh234.github.io/WebApp/
+史溯先祖伯磷公，自闽徒揭，定居宝坵，柒佰余载。宝坵山清水秀，地灵人杰，英才辈出。
 
-
-## Site
-
-### Landing Page
-Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol will be added soon.
-
-![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
-
-### Query Filled Form
-![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
-
-### Charts
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
-
-
-## Mobile support
-The WebApp is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
-
-![](https://iharsh234.github.io/WebApp/images/demo/mobile.png)
+郭氏一脉，繁衍于斯，满族昌盛，辉煌数百载，千古传芳名。
+# ![WebApp](https://xcx.ldteam.cn/citang/image.jpg)
