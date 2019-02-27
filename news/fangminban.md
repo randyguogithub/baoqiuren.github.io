@@ -1,13 +1,16 @@
-# ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
-# WebApp
-<table>
-<tr>
-<td>
-  A webapp using Quandl API to display history of stock growth in a given period of time. It helps predict the growth of stocks from the  charts of stock performace in any period of time. It helps to judge stocks, with the principle of momentum investing, which returns 1% per month on average.
-</td>
-</tr>
-</table>
+# 宝坵乡郭氏祖祠重修暨文化广场建设捐资芳名榜(初稿)
 
+通知
+
+        宝坵乡郭氏祖祠重修暨文化广场建设捐资芳名榜现已初稿出版，贴在水闸门边，请大家检查指正！若有差错请在五天内做出修正，多谢合作！                               
+
+排列顺序以捐款先后落笔
+
+联系电话：13729391750
+
+                         宝坵乡福利会 
+
+        2019年1月22日啟
 
 ## Demo
 Here is a working live demo :  https://iharsh234.github.io/WebApp/
